@@ -4,6 +4,9 @@
   "version": "2.1.2",
   "author": "Henrik Joreteg <henrik@andyet.net>",
   "browser": "index-browser.js",
+  "dependencies": {
+    "wrtc": "0.0.55"
+  },
   "devDependencies": {
     "browserify": "2.22.0",
     "precommit-hook": "0.3.x"
